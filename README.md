@@ -4,7 +4,8 @@ Custom Window for Electron with coloured Title bar, Menu bar, Menu items, Menu a
 
 <br />
 
-<img src="https://github.com/codesbiome/electron-react-webpack-typescript-2022/raw/master/assets/images/animation.gif" />
+<img src="https://github.com/codesbiome/electron-react-webpack-typescript-2022/raw/master/assets/images/animation.gif" /><br />
+*Screenshot of this project's components & IPC for rendering a custom window with Titlebar, Menus and Controls*
 
 ### Following are the list of features it provides :
 
