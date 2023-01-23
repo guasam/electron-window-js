@@ -1,4 +1,4 @@
-# Custom Electron Window Titlebar & Menus
+# Custom Electron Window Titlebar & Menus (JS)
 
 Custom Window for Electron with coloured Title bar, Menu bar, Menu items, Menu actions &amp; application icon etc.
 
